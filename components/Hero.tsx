@@ -139,7 +139,7 @@ export default function Hero() {
             <div className="absolute inset-0 bg-white border-4 border-white shadow-2xl overflow-hidden z-10 -rotate-3 transition-transform hover:rotate-0 rounded-[40px]">
               <Image
                 id="hero-profile-image"
-                src="/profile.jpg"
+                src="/profile.webp"
                 alt="Arifah Machi"
                 fill
                 className="object-cover"

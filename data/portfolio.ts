@@ -90,28 +90,28 @@ export const PROJECTS: Project[] = [
         title_id: 'Menu Real-time',
         description: 'Real-time menu updates with stock status information.',
         description_id: 'Pelanggan dapat melihat menu yang tersedia dengan status stok real-time.',
-        image: '/projects/dineqr/feature1.jpg'
+        image: '/projects/dineqr/feature1.webp'
       },
       {
         title: 'Ordering & Payment Management',
         title_id: 'Manajemen Pesanan dan Pembayaran untuk Kasir',
         description: 'Efficient order and payment management through an integrated system.',
         description_id: 'Kasir dapat mengelola pesanan dan pembayaran secara efisien melalui sistem yang terintegrasi.',
-        image: '/projects/dineqr/feature2.jpg'
+        image: '/projects/dineqr/feature2.webp'
       },
       {
         title: 'Admin Dashboard',
         title_id: 'Dashboard Admin',
         description: 'Comprehensive admin dashboard for monitoring sales and performance metrics.',
         description_id: 'Admin dapat memantau penjualan dan performa secara efisien melalui sistem yang terintegrasi.',
-        image: '/projects/dineqr/feature3.jpg'
+        image: '/projects/dineqr/feature3.webp'
       },
       {
         title: 'Menu & Stock Management',
         title_id: 'Manajemen Menu dan Stok',
         description: 'Intuitive interface for managing menu items and tracking inventory levels.',
         description_id: 'Antarmuka yang intuitif untuk mengelola item menu dan melacak tingkat persediaan.',
-        image: '/projects/dineqr/feature4.jpg'
+        image: '/projects/dineqr/feature4.webp'
       },
     ],
     githubLink: 'https://github.com/arifahnbm/DineQR.git',
@@ -141,28 +141,28 @@ export const PROJECTS: Project[] = [
         title_id: 'Jadwal Pengobatan Otomatis',
         description: 'Automated medication scheduling to ensure patients take their pills on time.',
         description_id: 'Penjadwalan pengobatan otomatis untuk memastikan pasien minum obat tepat waktu.',
-        image: '/projects/tbmate/feature1.jpg'
+        image: '/projects/tbmate/feature1.webp'
       },
       {
         title: 'Real-time Reminder Alarm',
         title_id: 'Alarm Pengingat Real-time',
         description: 'Real-time reminders to ensure patients take their medication on time.',
         description_id: 'Pengingat real-time untuk memastikan pasien minum obat tepat waktu.',
-        image: '/projects/tbmate/feature2.jpg'
+        image: '/projects/tbmate/feature2.webp'
       },
       {
         title: 'AI-based Pill Ingestion Verification',
         title_id: 'Verifikasi Penelanan Obat Berbasis AI',
         description: 'AI-based pill ingestion verification to ensure patients take their medication correctly.',
         description_id: 'Verifikasi menelan obat berbasis AI untuk memastikan pasien minum obat dengan benar.',
-        image: '/projects/tbmate/feature3.jpg'
+        image: '/projects/tbmate/feature3.webp'
       },
       {
         title: 'Integration with Health Workers and Companions',
         title_id: 'Integrasi Pasien dengan Pendamping dan Tenaga Kesehatan',
         description: 'Integration with health workers and companions to provide support and monitoring for patients.',
         description_id: 'Integrasi dengan tenaga kesehatan dan pendamping untuk memberikan dukungan dan pemantauan bagi pasien.',
-        image: '/projects/tbmate/feature4.jpg'
+        image: '/projects/tbmate/feature4.webp'
       },
     ],
     // githubLink: 'https://github.com/arifah/tbmate',
@@ -178,7 +178,7 @@ export const PROJECTS: Project[] = [
     background_id: 'Bagi banyak pengguna dengan ADHD, membereskan rumah bukan hanya soal kerapihan, tetapi juga perjuangan melawan rasa kewalahan, distraksi, dan sulitnya memulai tugas. Tidak jarang barang-barang akhirnya menumpuk menjadi doom pile di sudut ruangan sebagai bentuk “penundaan sementara” yang justru menambah stres. SatuLangkah hadir untuk membantu pengguna memulai dari hal kecil. Dengan bantuan AI yang dapat mengenali objek dari gambar ruangan dan memecah tugas besar menjadi langkah-langkah sederhana, aplikasi ini membantu pengguna menjalani proses merapikan rumah secara lebih ringan, terarah, dan tidak terasa membebani.',
     projectFor: 'Google Juara Vibe Coding Competition',
     projectFor_id: 'Kompetisi Google Juara Vibe Coding',
-    image: '/projects/cover-satulangkah.webp',
+    image: '/projects/cover-satulangkah1.webp',
     categories: ['Website'],
     tech: ['Next.js', 'Tailwind CSS', 'Gemini API'],
     role: 'Fullstack Developer',
@@ -192,17 +192,17 @@ export const PROJECTS: Project[] = [
         title_id: 'Deteksi Objek Berbasis AI',
         description: 'AI-powered object recognition to identify items in the user\'s room and provide tailored tidying suggestions.',
         description_id: 'Deteksi objek berbasis AI untuk mengidentifikasi item dalam ruangan pengguna dan memberikan saran penyusunan yang disesuaikan.',
-        image: '/projects/satulangkah/feature1.jpg'
+        image: '/projects/satulangkah/feature1.webp'
       },
       {
         title: 'AI-Powered Task Breakdown',
         title_id: 'Pemecahan Tugas Berbasis AI',
         description: 'AI-powered task breakdown to simplify complex tidying tasks into manageable steps.',
         description_id: 'Pemecahan tugas berbasis AI untuk menyederhanakan tugas penyusunan yang kompleks menjadi langkah-langkah yang dapat dikelola.',
-        image: '/projects/satulangkah/feature2.jpg'
+        image: '/projects/satulangkah/feature2.webp'
       },
     ],
-    demoLink: 'https://figma.com/proto/health'
+    demoLink: 'https://satulangkah.web.id/'
   },
   {
     id: 'fluensy',
@@ -227,31 +227,31 @@ export const PROJECTS: Project[] = [
         title_id: 'Pencocokan Influencer Cerdas',
         description: 'AI-powered matching system to connect brands with relevant influencers based on audience demographics and engagement metrics.',
         description_id: 'Sistem pencocokan berbasis AI untuk menghubungkan brand dengan influencer yang relevan berdasarkan demografi audiens dan metrik keterlibatan.',
-        image: '/projects/fluensy/feature1.jpg'
+        image: '/projects/fluensy/feature1.webp'
       },
       {
         title: 'Fake Follower Detection',
         title_id: 'Deteksi Pengikut Palsu',
         description: 'AI-powered detection system to identify and filter out fake followers from brand audiences.',
         description_id: 'Sistem deteksi berbasis AI untuk mengidentifikasi dan memfilter pengikut palsu dari audiens brand.',
-        image: '/projects/fluensy/feature2.jpg'
+        image: '/projects/fluensy/feature2.webp'
       },
       {
         title: 'Budget Optimization',
         title_id: 'Optimisasi Anggaran',
         description: 'AI-powered budget optimization system to allocate promotion budgets based on real-time performance data.',
         description_id: 'Sistem optimisasi anggaran berbasis AI untuk mengalokasikan anggaran promosi berdasarkan data performa secara real-time.',
-        image: '/projects/fluensy/feature3.jpg'
+        image: '/projects/fluensy/feature3.webp'
       },
       {
         title: 'Rate Card for Influencers',
         title_id: 'Kartu Tarif untuk Influencer',
         description: 'AI-powered rate card system to set fair pricing for influencer collaborations based on their reach and engagement.',
         description_id: 'Sistem kartu tarif berbasis AI untuk menetapkan harga yang adil untuk kolaborasi influencer berdasarkan jangkauan dan keterlibatan mereka.',
-        image: '/projects/fluensy/feature4.jpg'
+        image: '/projects/fluensy/feature4.webp'
       },
     ],
-    demoLink: 'https://github.com/arifah/student-points',
+    demoLink: 'https://fluensy.web.id/',
     prototypeLink: 'https://figma.com/proto/fluensy'
   },
 ];

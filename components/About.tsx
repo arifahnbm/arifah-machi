@@ -2,12 +2,14 @@
 
 import React from 'react';
 import { motion } from 'framer-motion';
-import { GraduationCap, Award, Heart, Zap, Clock } from 'lucide-react';
+import { GraduationCap, Award, Heart, Zap, Clock, Lightbulb, MessageCircleHeart } from 'lucide-react';
 
 const strengths = [
   { name: 'Adaptability', icon: Heart, color: 'bg-accent-blue/10 text-accent-blue' },
   { name: 'Continuous Learning', icon: Zap, color: 'bg-accent-blue/40 text-blue-600' },
   { name: 'Time Management', icon: Clock, color: 'bg-accent-lavender/40 text-purple-600' },
+  { name: 'Problem Solving', icon: Lightbulb, color: 'bg-accent-lavender/40 text-purple-600' },
+  { name: 'Communication', icon: MessageCircleHeart, color: 'bg-accent-lavender/40 text-purple-600' },
 ];
 
 export default function About() {
