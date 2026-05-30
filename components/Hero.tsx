@@ -67,7 +67,7 @@ export default function Hero() {
             <motion.a
               whileHover={{ scale: 1.05, boxShadow: "0 10px 15px -3px rgba(255, 144, 188, 0.4)" }}
               whileTap={{ scale: 0.95 }}
-              href="https://drive.google.com/file/d/1ljsGqoXL6wQFnlIs1noVqJbkT8lgYJei/view?usp=sharing"
+              href="https://drive.google.com/file/d/1j4fsMnVcjM7DccXcWJ_Pmc-Nq_R__blE/view?usp=sharing"
               className="px-8 py-3 bg-primary text-white rounded-full font-semibold shadow-lg shadow-primary/30 hover:shadow-xl transition-all"
             >
               View My CV
